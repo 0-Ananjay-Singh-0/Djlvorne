@@ -22,8 +22,8 @@
   Your protection comes from Firebase security rules (set up in a later step).
 */
 window.FIREBASE_CONFIG = {
-  apiKey: "",
-  authDomain: "",
-  projectId: "",
-  appId: ""
+  apiKey: "AIzaSyCAIEPojlvGkOxW0DR4CUEe-wr2pbRquI8",
+  authDomain: "djalvorne-84edc.firebaseapp.com",
+  projectId: "djalvorne-84edc",
+  appId: "1:590692869262:web:18df284f7eda2940cf15df"
 };
